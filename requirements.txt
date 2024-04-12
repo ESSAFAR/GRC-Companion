@@ -1,0 +1,9 @@
+langchain
+unstructured # Document loading
+langchain-community
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+unstructured[md]
+langchain-openai
+PyPDF2==1.26.0
